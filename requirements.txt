@@ -1,0 +1,15 @@
+```txt
+torch
+torchvision
+torchaudio
+
+datasets
+transformers
+
+fastai==2.7.14
+
+scikit-learn
+numpy
+pandas
+
+tqdm
